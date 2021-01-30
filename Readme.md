@@ -9,7 +9,7 @@
 ![ggg ](images/Generation_2d_latent_space_digits.png "Loudness Source et Loudness Reconstruite du sample 5")
 
 ### FashionMNIST Latent Space 
-![ggg ](images/FashionMNIST.png "Loudness Source et Loudness Reconstruite du sample 5")
+![ggg ](images/Generation_2d_latent_space.png "Loudness Source et Loudness Reconstruite du sample 5")
 
     
 ### Interpolation in the latent space
